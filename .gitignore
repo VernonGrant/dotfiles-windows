@@ -1,0 +1,12 @@
+# Ignore everything in root
+/*
+/*/
+
+# Git
+!.gitignore
+!.gitignore_global
+
+# PowerShell
+!Documents/
+Documents/*
+!Documents/WindowsPowerShell/
