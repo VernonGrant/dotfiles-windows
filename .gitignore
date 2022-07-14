@@ -6,6 +6,9 @@
 !.gitignore
 !.gitignore_global
 
+# Wsl
+!.wslconfig
+
 # PowerShell
 !Documents/
 Documents/*
