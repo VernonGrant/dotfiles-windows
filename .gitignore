@@ -13,3 +13,6 @@
 !Documents/
 Documents/*
 !Documents/WindowsPowerShell/
+
+# IntelliJ
+!.ideavimrc

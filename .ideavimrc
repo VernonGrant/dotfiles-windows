@@ -1,0 +1,26 @@
+" Set leader key.
+let mapleader ="\<Space>"
+
+" General settings.
+set visualbell
+set history=2000
+set hlsearch
+set incsearch
+set scrolloff=2
+set showmode
+set smartcase
+set clipboard+=unnamed
+
+" Enable vim-surround.
+set surround
+
+" System clipboard.
+noremap "+y "*y
+noremap "+Y "*Y
+noremap "+p "*p
+noremap "+P "*P
+
+" Custom key bindings.
+nnoremap <C-w>q :q<cr>
+nnoremap <leader>h :nohl<cr>
+nnoremap <leader><F11> :action ToggleFullScreen<cr>
