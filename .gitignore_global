@@ -1,4 +1,4 @@
-# VIM & EMACS
+# Vim and Emacs
 [._]*.s[a-v][a-z]
 [._]*.sw[a-p]
 [._]s[a-v][a-z]
@@ -8,7 +8,7 @@ Session.vim
 \#*\#
 .\#*
 
-# OSX
+# Mac OS
 .DS_Store
 .DS_Store?
 .Spotlight-V100
@@ -17,7 +17,7 @@ Session.vim
 Thumbs.db
 ehthumbs.db
 
-# GENERAL
+# General
 $RECYCLE.BIN/
 *.7z
 *.bz2
